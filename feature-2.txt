@@ -1,0 +1,2 @@
+This is the initial fetaure that we are adding 
+This is the fature that we are adding for the checking of the git commit --amend command
